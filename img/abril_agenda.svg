@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1231 319">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#New_Gradient_Swatch_7-2);
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: url(#New_Gradient_Swatch_7-4);
+      }
+
+      .cls-3 {
+        fill: none;
+      }
+
+      .cls-4 {
+        fill: url(#New_Gradient_Swatch_7-3);
+      }
+
+      .cls-5 {
+        fill: url(#New_Gradient_Swatch_7);
+      }
+
+      .cls-6 {
+        fill: url(#New_Gradient_Swatch_7-5);
+      }
+    </style>
+    <linearGradient id="New_Gradient_Swatch_7" data-name="New Gradient Swatch 7" x1="699.87" y1="159.5" x2="737.37" y2="159.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ff8933"/>
+      <stop offset="1" stop-color="#ff312d"/>
+    </linearGradient>
+    <linearGradient id="New_Gradient_Swatch_7-2" data-name="New Gradient Swatch 7" x1="596.75" x2="681.12" xlink:href="#New_Gradient_Swatch_7"/>
+    <linearGradient id="New_Gradient_Swatch_7-3" data-name="New Gradient Swatch 7" x1="399.88" x2="484.25" xlink:href="#New_Gradient_Swatch_7"/>
+    <linearGradient id="New_Gradient_Swatch_7-4" data-name="New Gradient Swatch 7" x1="503" y1="159.5" x2="578" y2="159.5" xlink:href="#New_Gradient_Swatch_7"/>
+    <linearGradient id="New_Gradient_Swatch_7-5" data-name="New Gradient Swatch 7" x1="756.12" y1="159.5" x2="831.12" y2="159.5" xlink:href="#New_Gradient_Swatch_7"/>
+  </defs>
+  <g id="Layer_3" data-name="Layer 3">
+    <g>
+      <g>
+        <polygon class="cls-5" points="728 122 737.37 112.63 737.37 84.5 699.87 84.5 699.87 112.63 709.25 122 709.25 150.13 718.62 159.5 709.25 168.88 709.25 197 699.87 206.37 699.87 234.5 737.37 234.5 737.37 206.37 728 197 728 168.88 718.62 159.5 728 150.13 728 122"/>
+        <path class="cls-1" d="M643.62,168.88l9.37,9.37v56.24h28.12s0-28.11,0-28.11l-9.37-9.37v-28.12l-9.37-9.37,9.37-9.37v-56.25l-9.37-9.37h-65.62s0,28.12,0,28.12l9.37,9.37v28.12l9.37,9.37-9.37,9.38v28.12l-9.37,9.37v28.12h37.5v-28.12l-9.37-9.37v-28.12M652.99,140.74l-9.37,9.39h-18.75v-28.12s28.12,0,28.12,0v9.37s0,9.36,0,9.36Z"/>
+        <path class="cls-4" d="M446.75,234.5h37.51v-28.12s-9.38-9.37-9.38-9.37l-5.24-28.12-9.39-9.36,6.44-6.44-8.33-44.29-3.2-17.01-1.37-7.28h-39.84v28.12s9.38,9.38,9.38,9.38h0l-5.84,31.08,6.49,6.43-9.39,9.36-5.32,28.13-9.37,9.37v28.12h37.5v-28.12l-9.37-9.37,4.69-28.12h18.75l4.69,28.12-9.37,9.37v28.12ZM446.75,150.12h-9.38v-28.12h9.38v28.12Z"/>
+        <path class="cls-2" d="M568.63,159.51l9.37-9.38v-56.26s-9.37-9.38-9.37-9.38h-65.63v28.13l9.4,9.38v28.13l9.37,9.38-9.37,9.38v28.09l-9.4,9.41v28.11h65.63l9.37-9.35v-56.26s-9.37-9.38-9.37-9.38ZM559.26,197.01h-28.12v-28.13h18.74l9.37,9.38v18.75ZM559.26,140.76l-9.37,9.38h-18.74v-28.13h28.12v18.75Z"/>
+        <polygon class="cls-6" points="821.74 197 812.37 206.37 793.62 206.37 784.25 197 784.25 168.88 774.87 159.5 784.25 150.13 784.25 122.01 793.62 112.63 793.62 84.5 756.12 84.5 756.12 112.63 765.5 122 765.5 150.13 774.87 159.5 765.5 168.88 765.5 197 756.12 206.38 756.12 234.5 831.12 234.5 831.12 197 821.74 197"/>
+      </g>
+      <rect class="cls-3" width="1231" height="319"/>
+    </g>
+  </g>
+</svg>
