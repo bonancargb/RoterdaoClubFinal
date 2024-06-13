@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="68" height="68" viewBox="0 0 68 68">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1" y1="1" x2="0" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#120512"/>
+      <stop offset="0.505" stop-color="#34220d"/>
+      <stop offset="1" stop-color="#252620"/>
+    </linearGradient>
+    <filter id="Path_791" x="0" y="0" width="68" height="68" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="6" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="sair" transform="translate(6 3)">
+    <g transform="matrix(1, 0, 0, 1, -6, -3)" filter="url(#Path_791)">
+      <g id="Path_791-2" data-name="Path 791" transform="translate(6 3)" fill="url(#linear-gradient)">
+        <path d="M 49.5 49.5 L 0.5 49.5 L 0.5 0.5 L 49.5 0.5 L 49.5 49.5 Z" stroke="none"/>
+        <path d="M 1 1 L 1 49 L 49 49 L 49 1 L 1 1 M 0 0 L 50 0 L 50 50 L 0 50 L 0 0 Z" stroke="none" fill="#e55112"/>
+      </g>
+    </g>
+    <text id="X" fill="#e55112" font-size="50" font-family="UbuntuMono-Bold, Ubuntu Mono" font-weight="700"><tspan x="12.5" y="42">X</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,22 @@
+<svg id="tis" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="35.344" height="53.633" viewBox="0 0 35.344 53.633">
+  <defs>
+    <linearGradient id="linear-gradient" y1="1" x2="0" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#231f20"/>
+      <stop offset="0" stop-color="#ff8a33"/>
+      <stop offset="1" stop-color="#ff312d"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <path id="Path_653" data-name="Path 653" d="M0,0V15.427L8.646,22.1V35.344h18.17V20.768l-8.65-6.716V0Z" fill="url(#linear-gradient)"/>
+    </clipPath>
+  </defs>
+  <g id="til" transform="translate(35.344) rotate(90)">
+    <g id="Group_2861" data-name="Group 2861" clip-path="url(#clip-path)">
+      <rect id="Rectangle_1270" data-name="Rectangle 1270" width="26.816" height="35.344" transform="translate(0 0)" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+  <g id="til-2" data-name="til" transform="translate(35.344 26.816) rotate(90)">
+    <g id="Group_2861-2" data-name="Group 2861" clip-path="url(#clip-path)">
+      <rect id="Rectangle_1270-2" data-name="Rectangle 1270" width="26.816" height="35.344" transform="translate(0 0)" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1231 319">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#New_Gradient_Swatch_7-2);
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: url(#New_Gradient_Swatch_7-4);
+      }
+
+      .cls-3 {
+        fill: none;
+      }
+
+      .cls-4 {
+        fill: url(#New_Gradient_Swatch_7-3);
+      }
+
+      .cls-5 {
+        fill: url(#New_Gradient_Swatch_7-6);
+      }
+
+      .cls-6 {
+        fill: url(#New_Gradient_Swatch_7);
+      }
+
+      .cls-7 {
+        fill: url(#New_Gradient_Swatch_7-5);
+      }
+
+      .cls-8 {
+        fill: url(#New_Gradient_Swatch_7-7);
+      }
+    </style>
+    <linearGradient id="New_Gradient_Swatch_7" data-name="New Gradient Swatch 7" x1="376.44" y1="159.5" x2="451.44" y2="159.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ff8933"/>
+      <stop offset="1" stop-color="#ff312d"/>
+    </linearGradient>
+    <linearGradient id="New_Gradient_Swatch_7-2" data-name="New Gradient Swatch 7" x1="779.56" x2="854.56" xlink:href="#New_Gradient_Swatch_7"/>
+    <linearGradient id="New_Gradient_Swatch_7-3" data-name="New Gradient Swatch 7" x1="573.31" x2="657.69" xlink:href="#New_Gradient_Swatch_7"/>
+    <linearGradient id="New_Gradient_Swatch_7-4" data-name="New Gradient Swatch 7" x1="479.56" y1="197" x2="545.19" y2="197" xlink:href="#New_Gradient_Swatch_7"/>
+    <linearGradient id="New_Gradient_Swatch_7-5" data-name="New Gradient Swatch 7" x1="517.06" y1="122" x2="554.56" y2="122" xlink:href="#New_Gradient_Swatch_7"/>
+    <linearGradient id="New_Gradient_Swatch_7-6" data-name="New Gradient Swatch 7" x1="470.19" y1="122" x2="507.69" y2="122" xlink:href="#New_Gradient_Swatch_7"/>
+    <linearGradient id="New_Gradient_Swatch_7-7" data-name="New Gradient Swatch 7" x1="676.44" x2="760.81" xlink:href="#New_Gradient_Swatch_7"/>
+  </defs>
+  <g id="Layer_3" data-name="Layer 3">
+    <g>
+      <rect class="cls-3" width="1231" height="319"/>
+      <g>
+        <polygon class="cls-6" points="385.81 197 395.19 206.37 413.94 206.37 423.31 197 423.31 168.87 432.69 159.5 423.31 150.12 423.31 122 413.94 112.62 413.94 84.5 451.44 84.5 451.44 112.62 442.06 122 442.06 150.12 432.69 159.5 442.06 168.87 442.06 197 442.06 225.13 432.69 234.5 376.44 234.5 376.44 197 385.81 197"/>
+        <path class="cls-1" d="M854.56,150.12v-56.26l-9.38-9.37h-56.25l-9.37,9.37v56.26l9.37,9.36-9.37,9.39v56.25l9.37,9.38h56.25s9.38-9.38,9.38-9.38v-56.25l-9.38-9.39,9.38-9.36ZM835.81,197h-37.51v-75s37.51,0,37.51,0v75Z"/>
+        <polygon class="cls-4" points="657.69 84.5 629.56 84.5 629.56 150.12 601.44 84.5 573.31 84.51 573.31 112.63 582.69 122 582.69 150.13 592.06 159.5 582.69 168.88 582.69 197 573.31 206.37 573.31 234.5 610.81 234.5 610.81 206.37 601.44 197 601.44 122 629.56 187.62 629.56 197 620.19 206.37 620.19 234.5 657.69 234.5 657.69 206.37 648.31 197.01 648.32 168.88 638.94 159.5 648.31 150.13 648.31 150.13 648.31 121.99 657.69 112.63 657.69 84.5"/>
+        <g>
+          <polygon class="cls-2" points="526.44 197 517.35 206.09 517.06 206.37 507.69 206.37 507.4 206.09 498.31 197 498.31 168.87 488.94 159.5 479.56 168.87 479.56 197 479.56 225.13 488.94 234.5 488.94 234.5 535.81 234.5 535.81 234.5 545.19 225.13 545.19 197 545.19 168.87 535.81 159.5 526.44 168.87 526.44 197"/>
+          <polygon class="cls-7" points="517.06 84.5 517.06 112.62 526.44 122 526.44 150.12 535.81 159.5 545.19 150.12 545.19 122 554.56 112.62 554.56 84.5 517.06 84.5"/>
+          <polygon class="cls-5" points="498.31 122 507.69 112.62 507.69 84.5 470.19 84.5 470.19 112.62 479.56 122 479.56 150.12 488.94 159.5 498.31 150.12 498.31 122"/>
+        </g>
+        <polyline class="cls-8" points="732.68 150.13 704.56 150.13 704.56 122 713.94 112.63 713.94 84.5 676.44 84.5 676.44 112.63 685.81 122 685.81 150.13 695.19 159.5 685.81 168.88 685.81 197 676.44 206.38 676.44 234.5 713.94 234.5 713.94 206.38 704.56 197 704.56 168.88 732.69 168.88 732.69 197 723.31 206.38 723.31 234.49 760.81 234.5 760.81 206.38 751.44 197 751.44 168.88 742.06 159.5 751.44 150.13 751.44 122 760.81 112.63 760.81 84.5 723.31 84.5 723.31 112.63 732.69 122"/>
+      </g>
+    </g>
+  </g>
+</svg>

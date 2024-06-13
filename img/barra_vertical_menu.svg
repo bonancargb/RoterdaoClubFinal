@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="4" height="222" viewBox="0 0 4 222">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e55112" stop-opacity="0"/>
+      <stop offset="0.592" stop-color="#ff352d"/>
+      <stop offset="1" stop-color="#ff8a33" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="barra_vertical_menu" data-name="barra vertical menu" stroke="rgba(112,112,112,0)" stroke-width="1" fill="url(#linear-gradient)">
+    <rect width="4" height="222" stroke="none"/>
+    <rect x="0.5" y="0.5" width="3" height="221" fill="none"/>
+  </g>
+</svg>
