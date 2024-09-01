@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 467 120">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: url(#New_Gradient_Swatch_4-6);
+      }
+
+      .cls-3 {
+        fill: url(#New_Gradient_Swatch_4-7);
+      }
+
+      .cls-4 {
+        fill: url(#New_Gradient_Swatch_4-5);
+      }
+
+      .cls-5 {
+        fill: url(#New_Gradient_Swatch_4-3);
+      }
+
+      .cls-6 {
+        fill: url(#New_Gradient_Swatch_4-4);
+      }
+
+      .cls-7 {
+        fill: url(#New_Gradient_Swatch_4-2);
+      }
+
+      .cls-8 {
+        fill: url(#New_Gradient_Swatch_4);
+      }
+    </style>
+    <linearGradient id="New_Gradient_Swatch_4" data-name="New Gradient Swatch 4" x1="133.5" y1="60" x2="165.5" y2="60" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ff8933"/>
+      <stop offset="1" stop-color="#ff312d"/>
+    </linearGradient>
+    <linearGradient id="New_Gradient_Swatch_4-2" data-name="New Gradient Swatch 4" x1="301.5" y1="60" x2="333.5" y2="60" xlink:href="#New_Gradient_Swatch_4"/>
+    <linearGradient id="New_Gradient_Swatch_4-3" data-name="New Gradient Swatch 4" x1="177.5" y1="76" x2="205.5" y2="76" xlink:href="#New_Gradient_Swatch_4"/>
+    <linearGradient id="New_Gradient_Swatch_4-4" data-name="New Gradient Swatch 4" x1="193.5" y1="44" x2="209.5" y2="44" xlink:href="#New_Gradient_Swatch_4"/>
+    <linearGradient id="New_Gradient_Swatch_4-5" data-name="New Gradient Swatch 4" x1="173.5" y1="44" x2="189.5" y2="44" xlink:href="#New_Gradient_Swatch_4"/>
+    <linearGradient id="New_Gradient_Swatch_4-6" data-name="New Gradient Swatch 4" x1="217.5" y1="60" x2="249.5" y2="60" xlink:href="#New_Gradient_Swatch_4"/>
+    <linearGradient id="New_Gradient_Swatch_4-7" data-name="New Gradient Swatch 4" x1="257.5" y1="60" x2="293.5" y2="60" xlink:href="#New_Gradient_Swatch_4"/>
+  </defs>
+  <g id="Layer_3">
+    <g>
+      <g>
+        <polygon class="cls-8" points="137.5 76 141.5 80 149.5 80 153.5 76 153.5 64 157.5 60 153.5 56 153.5 44 149.5 40 149.5 28 165.5 28 165.5 40 161.5 44 161.5 56 157.5 60 161.5 64 161.5 76 161.5 88 157.5 92 133.5 92 133.5 76 137.5 76"/>
+        <path class="cls-7" d="M333.5,56v-24l-4-4h-24l-4,4v24l4,3.99-4,4.01v24l4,4h24s4-4,4-4v-24l-4-4.01,4-3.99ZM325.5,76h-16v-32s16,0,16,0v32Z"/>
+        <g>
+          <polygon class="cls-5" points="197.5 76 193.62 79.88 193.5 80 189.5 80 189.38 79.88 185.5 76 185.5 64 181.5 60 177.5 64 177.5 76 177.5 88 181.5 92 181.5 92 201.5 92 201.5 92 205.5 88 205.5 76 205.5 64 201.5 60 197.5 64 197.5 76"/>
+          <polygon class="cls-6" points="193.5 28 193.5 40 197.5 44 197.5 56 201.5 60 205.5 56 205.5 44 209.5 40 209.5 28 193.5 28"/>
+          <polygon class="cls-4" points="185.5 44 189.5 40 189.5 28 173.5 28 173.5 40 177.5 44 177.5 56 181.5 60 185.5 56 185.5 44"/>
+        </g>
+        <polygon class="cls-2" points="245.5 76 241.5 80 233.5 80 229.5 76 229.5 64 225.5 60 229.5 56 229.5 44 233.5 40 233.5 28 217.5 28 217.5 40 221.5 44 221.5 56 225.5 60 221.5 64 221.5 76 217.5 80 217.5 92 249.5 92 249.5 76 245.5 76"/>
+        <polyline class="cls-3" points="281.5 56 269.5 56 269.5 44 273.5 40 273.5 28 257.5 28 257.5 40 261.5 44 261.5 56 265.5 60 261.5 64 261.5 76 257.5 80 257.5 92 273.5 92 273.5 80 269.5 76 269.5 64 281.5 64 281.5 76 277.5 80 277.5 91.99 293.5 92 293.5 80 289.5 76 289.5 64 285.5 60 289.5 56 289.5 44 293.5 40 293.5 28 277.5 28 277.5 40 281.5 44"/>
+      </g>
+      <rect class="cls-1" width="467" height="120"/>
+    </g>
+  </g>
+</svg>
