@@ -939,6 +939,10 @@ p + p {
   z-index: 10;
 } 
 
+.galeria .cartao {
+  position: relative
+}
+
 .cartao::before {
   position: absolute;
   content:"";
