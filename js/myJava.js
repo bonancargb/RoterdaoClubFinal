@@ -1,21 +1,3 @@
-
-$(document).ready(function() {
-let rotated = false;
-
-$('#rotate').click(function() {
-    if (!rotated) {
-    $(this).animate({
-        rotate: '-90deg' 
-    }); 
-    } else {
-    $(this).animate({
-        rotate: '0deg'
-        });
-    }
-    rotated = !rotated
-    });
-});
-
 $(document).ready(function() {
     var $button = $('.show-more');
     var currentIndex = 0; 
@@ -177,29 +159,29 @@ $(document).ready(function () {
     })
 })
 
-// cartao bonanca
+// cartao chvrches
 
 $(document).ready(function () { 
-    $(".bonanca .btn_style").click(function () { 
+    $(".chvrches .btn_style").click(function () { 
         // alert("GfG is clicked using click() method");
-        $(".bonanca .cartao").addClass("cartao-grande-a-sair");
-        $(".bonanca .cartao").removeClass("atraso-cartao");
-        $(".bonanca .img-cartao").css("aspect-ratio","2/1");
+        $(".chvrches .cartao").addClass("cartao-grande-a-sair");
+        $(".chvrches .cartao").removeClass("atraso-cartao");
+        $(".chvrches .img-cartao").css("aspect-ratio","2/1");
         $(".cartao-background").removeClass("background-invisivel");
-        $(".bonanca .cartao-grande-fora").removeClass("cartao-grande-fora");
-        $(".bonanca .cartao-grande-fixed").css("transition-delay","1s");
+        $(".chvrches .cartao-grande-fora").removeClass("cartao-grande-fora");
+        $(".chvrches .cartao-grande-fixed").css("transition-delay","1s");
     }); 
 }); 
 
 $(document).ready(function () {
-    $(".bonanca .cartao-grande-fixed .sair").click(function () {
-        $(".bonanca .cartao").removeClass("cartao-grande-a-sair");
-        $(".bonanca .cartao").addClass("atraso-cartao");
-        $(".bonanca .cartao .img-cartao").css("aspect-ratio","16/9");
+    $(".chvrches .cartao-grande-fixed .sair").click(function () {
+        $(".chvrches .cartao").removeClass("cartao-grande-a-sair");
+        $(".chvrches .cartao").addClass("atraso-cartao");
+        $(".chvrches .cartao .img-cartao").css("aspect-ratio","16/9");
         $(".cartao-background").addClass("background-invisivel");
-        $(".bonanca .cartao-grande-fixed").addClass("cartao-grande-fora");
-        $(".bonanca .cartao-grande-fixed").css("transition-delay","0s");
-        $(".bonanca .cartao-grande-a-sair").css("transition-delay","1s");
+        $(".chvrches .cartao-grande-fixed").addClass("cartao-grande-fora");
+        $(".chvrches .cartao-grande-fixed").css("transition-delay","0s");
+        $(".chvrches .cartao-grande-a-sair").css("transition-delay","1s");
     });
 });
 
@@ -252,7 +234,7 @@ $(document).ready(function() {
     $('#rotate').click(function() {
       if (!rotated) {
         $(this).animate({
-          rotate: '-90deg' 
+          rotate: '-180deg' 
         }); 
       } else {
         $(this).animate({

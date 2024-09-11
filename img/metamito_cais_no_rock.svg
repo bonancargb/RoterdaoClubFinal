@@ -1,90 +1,232 @@
-<svg id="Component_191_1" data-name="Component 191 – 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1231" height="319" viewBox="0 0 1231 319">
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Component_191_1" data-name="Component 191 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1231 319">
   <defs>
-    <linearGradient id="linear-gradient" y1="1" x2="1" y2="1" gradientUnits="objectBoundingBox">
+    <style>
+      .cls-1 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10, .cls-11, .cls-12 {
+        stroke-width: 0px;
+      }
+
+      .cls-2, .cls-13 {
+        fill: none;
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-4 {
+        fill: #ffcb8f;
+      }
+
+      .cls-14 {
+        clip-path: url(#clippath-1);
+      }
+
+      .cls-15 {
+        clip-path: url(#clippath-4);
+      }
+
+      .cls-16 {
+        clip-path: url(#clippath-3);
+      }
+
+      .cls-17 {
+        clip-path: url(#clippath-2);
+      }
+
+      .cls-18 {
+        clip-path: url(#clippath-7);
+      }
+
+      .cls-19 {
+        clip-path: url(#clippath-6);
+      }
+
+      .cls-20 {
+        clip-path: url(#clippath-5);
+      }
+
+      .cls-5 {
+        fill: url(#linear-gradient-4);
+      }
+
+      .cls-6 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-7 {
+        fill: url(#linear-gradient-3);
+      }
+
+      .cls-8 {
+        fill: url(#linear-gradient-8);
+      }
+
+      .cls-9 {
+        fill: url(#linear-gradient-7);
+      }
+
+      .cls-10 {
+        fill: url(#linear-gradient-5);
+      }
+
+      .cls-11 {
+        fill: url(#linear-gradient-6);
+      }
+
+      .cls-13 {
+        stroke: #707070;
+      }
+
+      .cls-21 {
+        isolation: isolate;
+      }
+
+      .cls-12 {
+        fill: #fff;
+      }
+
+      .cls-22 {
+        opacity: 0;
+      }
+    </style>
+    <clipPath id="clippath">
+      <polygon class="cls-2" points="746.5 55 746.5 83.12 755.87 92.5 755.87 120.62 765.25 130 755.87 139.38 755.87 167.5 746.5 176.88 746.5 205 784 205 784 176.88 774.62 167.5 774.62 139.38 765.25 130 774.62 120.62 774.62 92.5 784 83.12 784 55 746.5 55"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="38.95" y1="875.77" x2="39.95" y2="875.77" gradientTransform="translate(-734 131495) scale(38 -150)" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#ff8a33"/>
       <stop offset="1" stop-color="#ff312d"/>
     </linearGradient>
-    <clipPath id="clip-path">
-      <path id="Path_750" data-name="Path 750" d="M208,0V28.125l9.375,9.375V65.625L226.75,75l-9.375,9.375V112.5L208,121.875V150h37.5V121.875l-9.375-9.375V84.375L226.75,75l9.375-9.375V37.5l9.375-9.375V0Z" transform="translate(-208)" fill="url(#linear-gradient)"/>
+    <clipPath id="clippath-1">
+      <polygon class="cls-2" points="455.88 55 455.88 111.25 465.25 111.25 474.62 101.88 474.62 92.5 484 92.5 484 120.62 493.38 130 484 139.38 484 167.5 474.62 176.88 474.62 205 512.12 205 512.12 176.88 502.75 167.5 502.75 139.38 493.38 130 502.75 120.62 502.75 92.5 512.12 92.5 512.12 101.88 521.5 111.25 530.88 111.25 530.88 55 455.88 55"/>
     </clipPath>
-    <clipPath id="clip-path-2">
-      <path id="Path_751" data-name="Path 751" d="M84,0V56.25h9.375l9.375-9.375V37.5h9.375V65.625L121.5,75l-9.375,9.375V112.5l-9.375,9.375V150h37.5V121.875l-9.375-9.375V84.375L121.5,75l9.375-9.375V37.5h9.375v9.375l9.375,9.375H159V0Z" transform="translate(-84)" fill="url(#linear-gradient)"/>
+    <linearGradient id="linear-gradient-2" x1="39.47" y1="875.77" x2="40.47" y2="875.77" gradientTransform="translate(-2545 131495) scale(76 -150)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ff8a33"/>
+      <stop offset="1" stop-color="#ff312d"/>
+    </linearGradient>
+    <clipPath id="clippath-2">
+      <polygon class="cls-2" points="802.75 55 802.75 111.25 812.12 111.25 821.5 101.88 821.5 92.5 830.87 92.5 830.87 120.62 840.25 130 830.87 139.38 830.87 167.5 821.5 176.88 821.5 205 859 205 859 176.88 849.62 167.5 849.62 139.38 840.25 130 849.62 120.62 849.62 92.5 859 92.5 859 101.88 868.37 111.25 877.75 111.25 877.75 55 802.75 55"/>
     </clipPath>
-    <clipPath id="clip-path-3">
-      <path id="Path_752" data-name="Path 752" d="M232,0V56.25h9.375l9.375-9.375V37.5h9.375V65.625L269.5,75l-9.375,9.375V112.5l-9.375,9.375V150h37.5V121.875l-9.375-9.375V84.375L269.5,75l9.375-9.375V37.5h9.375v9.375l9.375,9.375H307V0Z" transform="translate(-232)" fill="url(#linear-gradient)"/>
+    <linearGradient id="linear-gradient-3" x1="39.46" y1="875.77" x2="40.46" y2="875.77" gradientTransform="translate(-2117 131495) scale(74 -150)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ff8a33"/>
+      <stop offset="1" stop-color="#ff312d"/>
+    </linearGradient>
+    <clipPath id="clippath-3">
+      <polygon class="cls-2" points="324.62 55 301.19 78.41 277.75 55.05 259 55.01 259 83.12 268.38 92.5 268.38 120.62 277.75 130 268.38 139.38 268.38 167.5 259 176.88 259 205 296.5 205 296.5 176.88 287.12 167.5 287.12 92.52 301.19 106.53 315.24 92.5 315.25 92.5 315.25 167.5 305.88 176.87 305.88 205 343.38 205 343.38 176.88 334 167.51 334 139.37 324.62 130 334 120.62 334 92.5 343.38 83.13 343.38 55 324.62 55"/>
     </clipPath>
-    <clipPath id="clip-path-4">
-      <path id="Path_753" data-name="Path 753" d="M65.625,0,42.187,23.407,18.75.054,0,.009V28.125L9.375,37.5V65.625L18.75,75,9.375,84.375V112.5L0,121.875V150l37.5,0V121.875L28.125,112.5V37.521L42.187,51.532,56.238,37.5h.012v75l-9.373,9.373V150h37.5V121.875L75,112.511l0-28.137L65.625,75,75,65.625V37.5l9.375-9.37V0Z" fill="url(#linear-gradient)"/>
+    <linearGradient id="linear-gradient-4" x1="39.53" y1="875.77" x2="40.53" y2="875.77" gradientTransform="translate(-3101 131495) scale(85 -150)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ff8a33"/>
+      <stop offset="1" stop-color="#ff312d"/>
+    </linearGradient>
+    <clipPath id="clippath-4">
+      <polygon class="cls-2" points="709 55 685.56 78.41 662.12 55.05 643.37 55.01 643.37 83.12 652.75 92.5 652.75 120.62 662.12 130 652.75 139.38 652.75 167.5 643.37 176.88 643.37 205 680.87 205 680.87 176.88 671.5 167.5 671.5 92.52 685.56 106.53 699.61 92.5 699.62 92.5 699.62 167.5 690.25 176.87 690.25 205 727.75 205 727.75 176.88 718.37 167.51 718.37 139.38 709 130 718.37 120.62 718.37 92.5 727.75 83.13 727.75 55 709 55"/>
     </clipPath>
-    <clipPath id="clip-path-5">
-      <path id="Path_754" data-name="Path 754" d="M229.625,0,206.187,23.407,182.75.054,164,.009V28.125l9.375,9.375V65.625L182.75,75l-9.375,9.375V112.5L164,121.875V150l37.5,0V121.875l-9.375-9.375V37.521l14.062,14.011L220.238,37.5h.012v75l-9.373,9.373V150h37.5V121.875L239,112.511V84.375L229.625,75,239,65.625V37.5l9.375-9.37V0Z" transform="translate(-164)" fill="url(#linear-gradient)"/>
+    <linearGradient id="linear-gradient-5" x1="39.52" y1="875.77" x2="40.52" y2="875.77" gradientTransform="translate(-2636 131495) scale(83 -150)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ff8a33"/>
+      <stop offset="1" stop-color="#ff312d"/>
+    </linearGradient>
+    <clipPath id="clippath-5">
+      <path class="cls-2" d="M915.25,92.5h37.5v75h-37.51v-75ZM905.87,55l-9.37,9.37v56.26l9.37,9.36-9.37,9.39v56.25l9.37,9.38h56.25l9.38-9.38v-56.25l-9.38-9.39,9.38-9.36v-56.26l-9.38-9.37h-56.25Z"/>
     </clipPath>
-    <clipPath id="clip-path-6">
-      <path id="Path_755" data-name="Path 755" d="M290.75,37.5l37.5,0v75H290.743ZM281.37,0,272,9.366V65.625l9.37,9.359L272,84.37v56.252L281.37,150h56.252L347,140.622V84.37l-9.377-9.387L347,65.625V9.366L337.622,0Z" transform="translate(-272)" fill="url(#linear-gradient)"/>
+    <linearGradient id="linear-gradient-6" x1="39.46" y1="875.77" x2="40.46" y2="875.77" gradientTransform="translate(-2023 131495) scale(74 -150)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ff8a33"/>
+      <stop offset="1" stop-color="#ff312d"/>
+    </linearGradient>
+    <clipPath id="clippath-6">
+      <polygon class="cls-2" points="362.14 55 362.14 83.13 371.5 92.5 371.5 120.62 380.88 130 371.5 139.37 371.5 167.5 362.12 176.88 362.12 205 437.12 205 437.12 158.12 427.75 158.12 418.37 167.5 390.25 167.5 390.25 139.38 399.62 139.38 409 148.75 418.38 148.75 418.38 111.25 409 111.25 399.62 120.62 390.26 120.62 390.26 92.5 418.38 92.5 427.75 101.88 437.12 101.88 437.12 55 362.14 55"/>
     </clipPath>
-    <clipPath id="clip-path-7">
-      <path id="Path_756" data-name="Path 756" d="M44.012,0V28.127L53.375,37.5V65.625L62.75,75l-9.375,9.373V112.5L44,121.875V150h75V103.125h-9.375l-9.377,9.375-28.123,0V84.375H81.5l9.375,9.377h9.375V56.25H90.875L81.5,65.625h-9.37V37.5H100.25l9.375,9.375H119V0Z" transform="translate(-44)" fill="url(#linear-gradient)"/>
+    <linearGradient id="linear-gradient-7" x1="39.47" y1="875.77" x2="40.47" y2="875.77" gradientTransform="translate(-2598 131495) scale(75 -150)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ff8a33"/>
+      <stop offset="1" stop-color="#ff312d"/>
+    </linearGradient>
+    <clipPath id="clippath-7">
+      <path class="cls-2" d="M577.75,92.5h9.38v28.12h-9.38v-28.12ZM554.3,55v28.12l9.38,9.38-5.83,31.08,6.49,6.43-9.39,9.36-5.33,28.13-9.38,9.38v28.12h37.5v-28.12l-9.38-9.38,4.69-28.12h18.75l4.69,28.12-9.37,9.38v28.12h37.51v-28.12s-9.38-9.38-9.38-9.38l-5.24-28.12-9.39-9.36,6.44-6.44-8.33-44.29-3.2-17.01-1.38-7.28h-39.85Z"/>
     </clipPath>
-    <clipPath id="clip-path-8">
-      <path id="Path_757" data-name="Path 757" d="M157.5,37.5h9.377V65.623H157.5ZM134.055,0l0,28.125,9.375,9.375h0L137.6,68.583l6.49,6.427L134.7,84.37l-5.325,28.13L120,121.875V150h37.5V121.875l-9.375-9.375,4.687-28.125h18.748l4.687,28.125-9.373,9.375,0,28.125h37.507l-.007-28.125-9.375-9.375-5.241-28.125-9.387-9.363,6.441-6.445-8.334-44.285-3.2-17.006L173.9,0Z" transform="translate(-120)" fill="url(#linear-gradient)"/>
-    </clipPath>
-    <filter id="CAIS_NO_ROCK" x="311.749" y="155.5" width="609" height="109" filterUnits="userSpaceOnUse">
-      <feOffset dx="1" dy="-4" input="SourceAlpha"/>
-      <feGaussianBlur stdDeviation="1.5" result="blur"/>
-      <feFlood flood-opacity="0.161"/>
-      <feComposite operator="in" in2="blur"/>
-      <feComposite in="SourceGraphic"/>
-    </filter>
+    <linearGradient id="linear-gradient-8" x1="39.53" y1="875.77" x2="40.53" y2="875.77" gradientTransform="translate(-2820 131495) scale(85 -150)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ff8a33"/>
+      <stop offset="1" stop-color="#ff312d"/>
+    </linearGradient>
   </defs>
-  <g id="Rectangle_1643" data-name="Rectangle 1643" fill="#fff" stroke="#707070" stroke-width="1" opacity="0">
-    <rect width="1231" height="319" stroke="none"/>
-    <rect x="0.5" y="0.5" width="1230" height="318" fill="none"/>
+  <g id="Rectangle_1643" data-name="Rectangle 1643" class="cls-22">
+    <rect class="cls-12" width="1231" height="319"/>
+    <rect class="cls-13" x=".5" y=".5" width="1230" height="318"/>
   </g>
-  <g id="Group_3284" data-name="Group 3284" transform="translate(13355.249 -6097)">
-    <g id="Group_3283" data-name="Group 3283" transform="translate(-13096.249 6152)">
-      <g id="Group_3064" data-name="Group 3064" transform="translate(487.499)">
-        <g id="Group_3063" data-name="Group 3063" clip-path="url(#clip-path)">
-          <rect id="Rectangle_1392" data-name="Rectangle 1392" width="38" height="150" transform="translate(-0.499 0)" fill="url(#linear-gradient)"/>
+  <g id="Group_3284" data-name="Group 3284">
+    <g id="Group_3283" data-name="Group 3283">
+      <g id="Group_3064" data-name="Group 3064">
+        <g class="cls-1">
+          <g id="Group_3063" data-name="Group 3063">
+            <rect id="Rectangle_1392" data-name="Rectangle 1392" class="cls-3" x="746" y="55" width="38" height="150"/>
+          </g>
         </g>
       </g>
-      <g id="Group_3066" data-name="Group 3066" transform="translate(196.875)">
-        <g id="Group_3065" data-name="Group 3065" clip-path="url(#clip-path-2)">
-          <rect id="Rectangle_1393" data-name="Rectangle 1393" width="76" height="150" transform="translate(-0.875 0)" fill="url(#linear-gradient)"/>
+      <g id="Group_3066" data-name="Group 3066">
+        <g class="cls-14">
+          <g id="Group_3065" data-name="Group 3065">
+            <rect id="Rectangle_1393" data-name="Rectangle 1393" class="cls-6" x="455" y="55" width="76" height="150"/>
+          </g>
         </g>
       </g>
-      <g id="Group_3068" data-name="Group 3068" transform="translate(543.749)">
-        <g id="Group_3067" data-name="Group 3067" clip-path="url(#clip-path-3)">
-          <rect id="Rectangle_1394" data-name="Rectangle 1394" width="74" height="150" transform="translate(0.251 0)" fill="url(#linear-gradient)"/>
+      <g id="Group_3068" data-name="Group 3068">
+        <g class="cls-17">
+          <g id="Group_3067" data-name="Group 3067">
+            <rect id="Rectangle_1394" data-name="Rectangle 1394" class="cls-7" x="803" y="55" width="74" height="150"/>
+          </g>
         </g>
       </g>
       <g id="Group_3070" data-name="Group 3070">
-        <g id="Group_3069" data-name="Group 3069" clip-path="url(#clip-path-4)">
-          <rect id="Rectangle_1395" data-name="Rectangle 1395" width="85" height="150" transform="translate(0 0)" fill="url(#linear-gradient)"/>
+        <g class="cls-16">
+          <g id="Group_3069" data-name="Group 3069">
+            <rect id="Rectangle_1395" data-name="Rectangle 1395" class="cls-5" x="259" y="55" width="85" height="150"/>
+          </g>
         </g>
       </g>
-      <g id="Group_3072" data-name="Group 3072" transform="translate(384.374)">
-        <g id="Group_3071" data-name="Group 3071" clip-path="url(#clip-path-5)">
-          <rect id="Rectangle_1396" data-name="Rectangle 1396" width="83" height="150" transform="translate(0.626 0)" fill="url(#linear-gradient)"/>
+      <g id="Group_3072" data-name="Group 3072">
+        <g class="cls-15">
+          <g id="Group_3071" data-name="Group 3071">
+            <rect id="Rectangle_1396" data-name="Rectangle 1396" class="cls-10" x="644" y="55" width="83" height="150"/>
+          </g>
         </g>
       </g>
-      <g id="Group_3074" data-name="Group 3074" transform="translate(637.499)">
-        <g id="Group_3073" data-name="Group 3073" clip-path="url(#clip-path-6)">
-          <rect id="Rectangle_1397" data-name="Rectangle 1397" width="74" height="150" transform="translate(0.501 0)" fill="url(#linear-gradient)"/>
+      <g id="Group_3074" data-name="Group 3074">
+        <g class="cls-20">
+          <g id="Group_3073" data-name="Group 3073">
+            <rect id="Rectangle_1397" data-name="Rectangle 1397" class="cls-11" x="897" y="55" width="74" height="150"/>
+          </g>
         </g>
       </g>
-      <g id="Group_3076" data-name="Group 3076" transform="translate(103.125)">
-        <g id="Group_3075" data-name="Group 3075" clip-path="url(#clip-path-7)">
-          <rect id="Rectangle_1398" data-name="Rectangle 1398" width="75" height="150" transform="translate(-0.125 0)" fill="url(#linear-gradient)"/>
+      <g id="Group_3076" data-name="Group 3076">
+        <g class="cls-19">
+          <g id="Group_3075" data-name="Group 3075">
+            <rect id="Rectangle_1398" data-name="Rectangle 1398" class="cls-9" x="362" y="55" width="75" height="150"/>
+          </g>
         </g>
       </g>
-      <g id="Group_3078" data-name="Group 3078" transform="translate(281.249)">
-        <g id="Group_3077" data-name="Group 3077" clip-path="url(#clip-path-8)">
-          <rect id="Rectangle_1399" data-name="Rectangle 1399" width="85" height="150" transform="translate(-0.249 0)" fill="url(#linear-gradient)"/>
+      <g id="Group_3078" data-name="Group 3078">
+        <g class="cls-18">
+          <g id="Group_3077" data-name="Group 3077">
+            <rect id="Rectangle_1399" data-name="Rectangle 1399" class="cls-8" x="540" y="55" width="85" height="150"/>
+          </g>
         </g>
       </g>
     </g>
-    <g transform="matrix(1, 0, 0, 1, -13355.25, 6097)" filter="url(#CAIS_NO_ROCK)">
-      <text id="CAIS_NO_ROCK-2" data-name="CAIS NO ROCK" transform="translate(615.25 247)" fill="#ffcb8f" font-size="100" font-family="UbuntuMono-Bold, Ubuntu Mono" font-weight="700"><tspan x="-300" y="0">CAIS NO ROCK</tspan></text>
+    <g id="CAIS_NO_ROCK-2" data-name="CAIS NO ROCK-2" class="cls-21">
+      <g class="cls-21">
+        <path class="cls-4" d="M344.85,248.3c-8.73,0-15.4-2.8-20-8.4-4.6-5.6-6.9-13.57-6.9-23.9,0-5.13.7-9.7,2.1-13.7,1.4-4,3.35-7.38,5.85-10.15,2.5-2.77,5.47-4.87,8.9-6.3,3.43-1.43,7.18-2.15,11.25-2.15,2.2,0,4.18.18,5.95.55,1.77.37,3.32.78,4.65,1.25,1.33.47,2.45.97,3.35,1.5.9.53,1.58.93,2.05,1.2l-3.2,9.8c-1.53-1-3.38-1.85-5.55-2.55-2.17-.7-4.65-1.05-7.45-1.05-1.93,0-3.82.35-5.65,1.05-1.83.7-3.47,1.87-4.9,3.5-1.43,1.63-2.6,3.82-3.5,6.55-.9,2.73-1.35,6.13-1.35,10.2,0,7.07,1.22,12.48,3.65,16.25,2.43,3.77,6.42,5.65,11.95,5.65,3.2,0,5.85-.37,7.95-1.1,2.1-.73,3.78-1.47,5.05-2.2l3.1,9.7c-1.73,1.07-4.08,2.05-7.05,2.95-2.97.9-6.38,1.35-10.25,1.35Z"/>
+        <path class="cls-4" d="M401.15,247l-2.9-14.3h-16.5l-2.8,14.3h-12.8c2.93-12.2,5.9-23.32,8.9-33.35,3-10.03,5.9-19.55,8.7-28.55h13.4c2.93,9.07,5.85,18.68,8.75,28.85,2.9,10.17,5.72,21.18,8.45,33.05h-13.2ZM390.15,197.1c-.67,2.33-1.28,4.55-1.85,6.65-.57,2.1-1.1,4.17-1.6,6.2-.5,2.03-.97,4.08-1.4,6.15-.43,2.07-.85,4.2-1.25,6.4h12.1c-.4-2.2-.8-4.33-1.2-6.4-.4-2.07-.85-4.12-1.35-6.15-.5-2.03-1.03-4.1-1.6-6.2-.57-2.1-1.18-4.32-1.85-6.65Z"/>
+        <path class="cls-4" d="M420.65,247v-10.2h13.5v-41.5h-13.5v-10.2h39.3v10.2h-13.4v41.5h13.4v10.2h-39.3Z"/>
+        <path class="cls-4" d="M488.45,238c2.07,0,3.78-.22,5.15-.65,1.37-.43,2.45-1.03,3.25-1.8.8-.77,1.35-1.63,1.65-2.6.3-.97.45-1.95.45-2.95,0-1.27-.37-2.4-1.1-3.4-.73-1-1.67-1.88-2.8-2.65-1.13-.77-2.4-1.47-3.8-2.1-1.4-.63-2.8-1.21-4.2-1.75-1.87-.67-3.8-1.43-5.8-2.3-2-.87-3.82-1.97-5.45-3.3-1.63-1.33-2.98-2.98-4.05-4.95-1.07-1.97-1.6-4.42-1.6-7.35,0-5.8,1.88-10.33,5.65-13.6,3.77-3.27,8.95-4.9,15.55-4.9,3.8,0,7.12.43,9.95,1.3,2.83.87,5.22,1.83,7.15,2.9l-3.6,9.5c-1.67-.93-3.52-1.73-5.55-2.4-2.03-.67-4.38-1-7.05-1-6.53,0-9.8,2.37-9.8,7.1,0,1.2.33,2.25,1,3.15.67.9,1.52,1.7,2.55,2.4,1.03.7,2.2,1.32,3.5,1.85,1.3.53,2.58,1.03,3.85,1.5,1.93.73,3.95,1.55,6.05,2.45,2.1.9,4.03,2.1,5.8,3.6,1.77,1.5,3.22,3.37,4.35,5.6,1.13,2.23,1.7,5.05,1.7,8.45,0,5.8-1.88,10.29-5.65,13.45-3.77,3.17-9.48,4.75-17.15,4.75-5.13,0-9.23-.55-12.3-1.65-3.07-1.1-5.37-2.12-6.9-3.05l3.6-10c1.8,1.07,3.95,2.07,6.45,3,2.5.93,5.55,1.4,9.15,1.4Z"/>
+        <path class="cls-4" d="M600.75,247c-2.8-6.87-5.85-13.72-9.15-20.55-3.3-6.83-6.85-13.68-10.65-20.55v41.1h-11.1v-61.9h9.9c1.87,2.93,3.73,6.12,5.6,9.55,1.87,3.43,3.68,6.85,5.45,10.25,1.77,3.4,3.4,6.7,4.9,9.9s2.78,6,3.85,8.4v-38.1h11.1v61.9h-9.9Z"/>
+        <path class="cls-4" d="M617.95,216c0-10.67,1.96-18.72,5.9-24.15,3.93-5.43,9.4-8.15,16.4-8.15s12.8,2.72,16.6,8.15c3.8,5.43,5.7,13.48,5.7,24.15s-1.93,18.72-5.8,24.15c-3.87,5.43-9.33,8.15-16.4,8.15s-12.82-2.72-16.65-8.15c-3.83-5.43-5.75-13.48-5.75-24.15ZM630.45,216c0,3,.12,5.82.35,8.45.23,2.63.7,4.92,1.4,6.85.7,1.93,1.68,3.47,2.95,4.6,1.27,1.13,2.97,1.7,5.1,1.7s3.75-.57,5.05-1.7c1.3-1.13,2.3-2.68,3-4.65.7-1.97,1.17-4.25,1.4-6.85.23-2.6.35-5.4.35-8.4s-.12-5.82-.35-8.45c-.23-2.63-.7-4.92-1.4-6.85-.7-1.93-1.68-3.47-2.95-4.6-1.27-1.13-2.97-1.7-5.1-1.7s-3.83.57-5.1,1.7c-1.27,1.13-2.25,2.68-2.95,4.65-.7,1.97-1.17,4.25-1.4,6.85-.23,2.6-.35,5.4-.35,8.4Z"/>
+        <path class="cls-4" d="M736.65,184.4c3.53,0,6.73.4,9.6,1.2,2.87.8,5.33,2.04,7.4,3.7,2.07,1.67,3.65,3.78,4.75,6.35,1.1,2.57,1.65,5.58,1.65,9.05s-.73,6.87-2.2,9.8c-1.47,2.93-3.9,5.17-7.3,6.7,1.13,1.73,2.33,3.65,3.6,5.75,1.27,2.1,2.5,4.3,3.7,6.6,1.2,2.3,2.35,4.6,3.45,6.9s2.05,4.48,2.85,6.55h-12.9c-1.53-4-3.32-7.85-5.35-11.55s-4.22-7.45-6.55-11.25h-6.4v22.8h-12.3v-61c1.2-.27,2.52-.52,3.95-.75,1.43-.23,2.88-.4,4.35-.5,1.46-.1,2.87-.18,4.2-.25,1.33-.07,2.5-.1,3.5-.1ZM747.55,204.6c0-3.27-1-5.67-3-7.2-2-1.53-4.63-2.3-7.9-2.3-.47,0-1.03.02-1.7.05-.67.03-1.33.12-2,.25v18.6h2.7c4.2,0,7.23-.82,9.1-2.45,1.87-1.63,2.8-3.95,2.8-6.95Z"/>
+        <path class="cls-4" d="M767.95,216c0-10.67,1.96-18.72,5.9-24.15,3.93-5.43,9.4-8.15,16.4-8.15s12.8,2.72,16.6,8.15c3.8,5.43,5.7,13.48,5.7,24.15s-1.93,18.72-5.8,24.15c-3.87,5.43-9.33,8.15-16.4,8.15s-12.82-2.72-16.65-8.15c-3.83-5.43-5.75-13.48-5.75-24.15ZM780.45,216c0,3,.12,5.82.35,8.45.23,2.63.7,4.92,1.4,6.85.7,1.93,1.68,3.47,2.95,4.6,1.27,1.13,2.97,1.7,5.1,1.7s3.75-.57,5.05-1.7c1.3-1.13,2.3-2.68,3-4.65.7-1.97,1.17-4.25,1.4-6.85.23-2.6.35-5.4.35-8.4s-.12-5.82-.35-8.45c-.23-2.63-.7-4.92-1.4-6.85-.7-1.93-1.68-3.47-2.95-4.6-1.27-1.13-2.97-1.7-5.1-1.7s-3.83.57-5.1,1.7c-1.27,1.13-2.25,2.68-2.95,4.65-.7,1.97-1.17,4.25-1.4,6.85-.23,2.6-.35,5.4-.35,8.4Z"/>
+        <path class="cls-4" d="M844.85,248.3c-8.73,0-15.4-2.8-20-8.4-4.6-5.6-6.9-13.57-6.9-23.9,0-5.13.7-9.7,2.1-13.7s3.35-7.38,5.85-10.15c2.5-2.77,5.47-4.87,8.9-6.3,3.43-1.43,7.18-2.15,11.25-2.15,2.2,0,4.18.18,5.95.55,1.77.37,3.32.78,4.65,1.25,1.33.47,2.45.97,3.35,1.5.9.53,1.58.93,2.05,1.2l-3.2,9.8c-1.54-1-3.38-1.85-5.55-2.55-2.17-.7-4.65-1.05-7.45-1.05-1.94,0-3.82.35-5.65,1.05-1.83.7-3.47,1.87-4.9,3.5-1.43,1.63-2.6,3.82-3.5,6.55-.9,2.73-1.35,6.13-1.35,10.2,0,7.07,1.21,12.48,3.65,16.25,2.43,3.77,6.42,5.65,11.95,5.65,3.2,0,5.85-.37,7.95-1.1,2.1-.73,3.78-1.47,5.05-2.2l3.1,9.7c-1.73,1.07-4.08,2.05-7.05,2.95-2.97.9-6.38,1.35-10.25,1.35Z"/>
+        <path class="cls-4" d="M900.25,247c-.73-2.33-1.78-4.85-3.15-7.55-1.37-2.7-2.88-5.33-4.55-7.9-1.67-2.57-3.42-4.97-5.25-7.2-1.83-2.23-3.58-4.12-5.25-5.65v28.3h-12.3v-61.9h12.3v25.7c1.47-1.87,3-3.93,4.6-6.2,1.6-2.27,3.12-4.53,4.55-6.8,1.43-2.27,2.75-4.5,3.95-6.7,1.2-2.2,2.2-4.2,3-6h13.9c-.93,1.8-2.05,3.85-3.35,6.15s-2.78,4.7-4.45,7.2c-1.67,2.5-3.45,5.05-5.35,7.65-1.9,2.6-3.88,5.1-5.95,7.5,2.07,2,4.17,4.3,6.3,6.9,2.13,2.6,4.15,5.38,6.05,8.35,1.9,2.97,3.62,6,5.15,9.1,1.53,3.1,2.77,6.12,3.7,9.05h-13.9Z"/>
+      </g>
     </g>
   </g>
 </svg>

@@ -210,6 +210,10 @@ p + p {
   word-wrap: break-word;
 }
 
+.agenda .bloco-preto-inverso, .arquivo .bloco-preto-inverso {
+  margin-top: -1px;
+}
+
 .bloco-laranja {
   background-image:linear-gradient(90deg,rgb(255, 138, 51), rgb(255, 49, 45));
   font-size: 24px !important;
@@ -517,6 +521,12 @@ p + p {
   animation-iteration-count: infinite;
   animation-timing-function: ease-in-out;
   
+}
+
+.artist-profile .caixa-livre {
+  display: flex;
+  justify-content: start;
+  margin-top: 0px;
 }
 
 .titulo-terciario {
@@ -901,16 +911,21 @@ p + p {
 
 /* À ESCUTA */
 
+.exit {
+  z-index: 2000;
+}
+
+.card-spot {
+  height: 540px;
+  width: 588px;
+}
+
 .spotify-artist {
   position: absolute;
-  transform: translate(270px, 185px);
+  transform: translate(0px, -350px);
+  width: 100%;
+  z-index: 1;
 }
-
-.spotify-size {
-  width: 320px;
-}
-
-
 
 .cartao {
   background-image:linear-gradient(90deg,#FF8A33, #FF312D);
@@ -918,7 +933,7 @@ p + p {
   margin-bottom: 1rem;
   width: 350px;
   height: 410px;
-  position: relative;
+  position: absolute;
   padding: 5px;
   transition: all 1.5s;
   z-index: 10;
@@ -1229,13 +1244,14 @@ p + p {
 
 .sair {
   position: absolute;
-  transform: translate(945px, -15px);
+  transform: translate(955px, -20px);
   font-size: 56px;
   font-weight: bold;
   background: #120512;
   padding: 0px 16px;
   line-height: 60px;
   border: #EC5039 solid 1px;
+  z-index: 2000;
 }
 
 .cima-ou-baixo {
@@ -1251,10 +1267,7 @@ p + p {
     height: 320px;
   }
   .spotify-artist {
-    transform: translate(240px, 220px);
-  }
-  .spotify-size {
-    width: 300px;
+    transform: translate(0px, -320px);
   }
   .cartao-grande-dia {
     transform: translate(610px, 262px);
@@ -1273,7 +1286,7 @@ p + p {
     height: 280px;
   }
   .spotify-artist {
-    transform: translate(5px, 265px);
+    transform: translate(0px, -281px);
   }
   .spotify-size {
     width: 430px;
@@ -1306,7 +1319,8 @@ p + p {
   .cartao-grande-tema {
     font-size: 28px;
     line-height: 40px;
-    transform: translate(0px, 5px);
+    top: 0;
+    transform: translate(0px, 260px);
     white-space: nowrap;
     
   }
@@ -1315,10 +1329,8 @@ p + p {
     transform: translate(0px, 50px);
   }
   .spotify-artist {
-    transform: translate(36vw, calc(40vh + 110px));
-  }
-  .spotify-size {
-    width: 60vw;
+    top: 0;
+    transform: translate(0px, 53px);
   }
 
   .cont-col {
@@ -1326,17 +1338,18 @@ p + p {
   }
 
   .cartao-grande-texto {
-    padding-top: 50px;
+    align-items: center;
+    display: flex;
   }
 
 
   .cartao-grande-dia {
-    transform: translate(1vw, 62vh);
+    transform: translate(1vw, 60vh);
     font-size: 20px;
     line-height: 30px;
   }
   .cartao-grande-fixed .sair {
-    transform: translate(calc(100vw - 80px), 100px);
+    transform: translate(calc(100vw - 80px), calc(100vh - 100px));
     z-index: 1000000;
     font-size: 40px;
     padding: 0 12px;
@@ -1357,6 +1370,9 @@ p + p {
     font-size: 28px;
     transform: translate(20px, 120px);
   }
+  .posicao-grande-entrevistado {
+    transform: translate(0px, 40%);
+  }
 }
 
 @media only screen and (max-width:575px) {
@@ -1376,22 +1392,20 @@ p + p {
     transform: translate(0px, -390px);
   }
   .cartao-grande-fixed .sair {
-    transform: translate(calc(100vw - 60px), 65px);
     z-index: 1000000;
     font-size: 32px;
     padding: 0 10px;
     line-height: 36px;
   }
-  .spotify-artist {
-    transform: translate(-5px, calc(45vh + 100px));
-    left: 5%;
-    
+  .cartao-grande-tema {
+    transform: translate(0px, 250px);
   }
-  .spotify-size {
-    width: 90vw;
+
+  .spotify-artist {
+    transform: translate(0px, 43px);    
   }
   .cartao-grande-dia {
-    transform: translate(calc(100vw - 168px), 70vh);
+    transform: translate(1vw, 70vh);
     font-size: 16px;
     line-height: 24px;
   }
@@ -1557,13 +1571,24 @@ p + p {
 
   .button-style-laranja {
     background-image:inherit;
-  font-size: inherit;
-  font-weight: inherit;
-  color: inherit;
-  border-style: none;
-  border-width: inherit;
-  border-image: inherit;
-  border-image-slice: inherit;
+    font-size: inherit;
+    font-weight: inherit;
+    color: inherit;
+    border-style: none;
+    border-width: inherit;
+    border-image: inherit;
+    border-image-slice: inherit;
+  }
+
+  .artist-profile .dropdown button {
+    border-radius: 0;
+    background-color: transparent;
+    border: transparent;
+    color: black;
+  }
+
+  .artist-profile .dropdown-menu {
+    min-width: 0px !important;
   }
 
   .artista .titulo-secundario {
