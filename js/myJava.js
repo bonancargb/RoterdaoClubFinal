@@ -133,29 +133,29 @@ $(document).ready(function () {
     })
 })
 
-// cartao fbac
+// cartao the dare
 
 $(document).ready(function () { 
-    $(".fbac .btn_style").click(function () { 
+    $(".the_dare .btn_style").click(function () { 
         // alert("GfG is clicked using click() method");
-        $(".fbac .cartao").addClass("cartao-grande-a-sair");
-        $(".fbac .cartao").removeClass("atraso-cartao");
-        $(".fbac .img-cartao").css("aspect-ratio","2/1");
+        $(".the_dare .cartao").addClass("cartao-grande-a-sair");
+        $(".the_dare .cartao").removeClass("atraso-cartao");
+        $(".the_dare .img-cartao").css("aspect-ratio","2/1");
         $(".cartao-background").removeClass("background-invisivel");
-        $(".fbac .cartao-grande-fora").removeClass("cartao-grande-fora");
-        $(".fbac .cartao-grande-fixed").css("transition-delay","1s");
+        $(".the_dare .cartao-grande-fora").removeClass("cartao-grande-fora");
+        $(".the_dare .cartao-grande-fixed").css("transition-delay","1s");
     }); 
 }); 
 
 $(document).ready(function () {
-    $(".fbac .cartao-grande-fixed .sair").click(function () {
-        $(".fbac .cartao").removeClass("cartao-grande-a-sair");
-        $(".fbac .cartao").addClass("atraso-cartao");
-        $(".fbac .cartao .img-cartao").css("aspect-ratio","16/9");
+    $(".the_dare .cartao-grande-fixed .sair").click(function () {
+        $(".the_dare .cartao").removeClass("cartao-grande-a-sair");
+        $(".the_dare .cartao").addClass("atraso-cartao");
+        $(".the_dare .cartao .img-cartao").css("aspect-ratio","16/9");
         $(".cartao-background").addClass("background-invisivel");
-        $(".fbac .cartao-grande-fixed").addClass("cartao-grande-fora");
-        $(".fbac .cartao-grande-fixed").css("transition-delay","0s");
-        $(".fbac .cartao-grande-a-sair").css("transition-delay","1s");
+        $(".the_dare .cartao-grande-fixed").addClass("cartao-grande-fora");
+        $(".the_dare .cartao-grande-fixed").css("transition-delay","0s");
+        $(".the_dare .cartao-grande-a-sair").css("transition-delay","1s");
     })
 })
 
