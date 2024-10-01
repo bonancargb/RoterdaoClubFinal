@@ -107,29 +107,29 @@ $(document).ready(function () {
     })
 })
 
-// cartao querubim
+// cartao nothing but thieves
 
 $(document).ready(function () { 
-    $(".querubim .cartao .btn_style").click(function () { 
+    $(".nothing_but_1 .cartao .btn_style").click(function () { 
         // alert("GfG is clicked using click() method");
-        $(".querubim .cartao").addClass("cartao-grande-a-sair");
-        $(".querubim .cartao").removeClass("atraso-cartao");
-        $(".querubim .cartao .img-cartao").css("aspect-ratio","2/1");
+        $(".nothing_but_1 .cartao").addClass("cartao-grande-a-sair");
+        $(".nothing_but_1 .cartao").removeClass("atraso-cartao");
+        $(".nothing_but_1 .cartao .img-cartao").css("aspect-ratio","2/1");
         $(".cartao-background").removeClass("background-invisivel");
-        $(".querubim .cartao-grande-fixed").removeClass("cartao-grande-fora");
-        $(".querubim .cartao-grande-fixed").css("transition-delay","1s");
+        $(".nothing_but_1 .cartao-grande-fixed").removeClass("cartao-grande-fora");
+        $(".nothing_but_1 .cartao-grande-fixed").css("transition-delay","1s");
     }); 
 }); 
 
 $(document).ready(function () {
-    $(".querubim .cartao-grande-fixed .sair").click(function () {
-        $(".querubim .cartao").removeClass("cartao-grande-a-sair");
-        $(".querubim .cartao").addClass("atraso-cartao");
-        $(".querubim .cartao .img-cartao").css("aspect-ratio","16/9");
+    $(".nothing_but_1 .cartao-grande-fixed .sair").click(function () {
+        $(".nothing_but_1 .cartao").removeClass("cartao-grande-a-sair");
+        $(".nothing_but_1 .cartao").addClass("atraso-cartao");
+        $(".nothing_but_1 .cartao .img-cartao").css("aspect-ratio","16/9");
         $(".cartao-background").addClass("background-invisivel");
-        $(".querubim .cartao-grande-fixed").addClass("cartao-grande-fora");
-        $(".querubim .cartao-grande-fixed").css("transition-delay","0s");
-        $(".querubim .cartao-grande-a-sair").css("transition-delay","1s");
+        $(".nothing_but_1 .cartao-grande-fixed").addClass("cartao-grande-fora");
+        $(".nothing_but_1 .cartao-grande-fixed").css("transition-delay","0s");
+        $(".nothing_but_1 .cartao-grande-a-sair").css("transition-delay","1s");
     })
 })
 
