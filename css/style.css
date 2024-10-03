@@ -47,6 +47,10 @@ footer .perdidos-achados {
   list-style: none;
 }
 
+.btn_move {
+  max-width: 30px;
+}
+
 /* ------- */
 
 /* TEXTO E CAIXAS */
