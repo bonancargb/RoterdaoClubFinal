@@ -81,29 +81,29 @@ $(document).ready(function () {
     })
 })
 
-// cartao lightning
+// cartao laurel_1
 
 $(document).ready(function () { 
-    $(".lightning .btn_style").click(function () { 
+    $(".laurel_1 .btn_style").click(function () { 
         // alert("GfG is clicked using click() method");
-        $(".lightning .cartao").addClass("cartao-grande-a-sair");
-        $(".lightning .cartao").removeClass("atraso-cartao");
-        $(".lightning .img-cartao").css("aspect-ratio","2/1");
+        $(".laurel_1 .cartao").addClass("cartao-grande-a-sair");
+        $(".laurel_1 .cartao").removeClass("atraso-cartao");
+        $(".laurel_1 .img-cartao").css("aspect-ratio","2/1");
         $(".cartao-background").removeClass("background-invisivel");
-        $(".lightning .cartao-grande-fora").removeClass("cartao-grande-fora");
-        $(".lightning .cartao-grande-fixed").css("transition-delay","1s");
+        $(".laurel_1 .cartao-grande-fora").removeClass("cartao-grande-fora");
+        $(".laurel_1 .cartao-grande-fixed").css("transition-delay","1s");
     }); 
 }); 
 
 $(document).ready(function () {
-    $(".lightning .cartao-grande-fixed .sair").click(function () {
-        $(".lightning .cartao").removeClass("cartao-grande-a-sair");
-        $(".lightning .cartao").addClass("atraso-cartao");
-        $(".lightning .cartao .img-cartao").css("aspect-ratio","16/9");
+    $(".laurel_1 .cartao-grande-fixed .sair").click(function () {
+        $(".laurel_1 .cartao").removeClass("cartao-grande-a-sair");
+        $(".laurel_1 .cartao").addClass("atraso-cartao");
+        $(".laurel_1 .cartao .img-cartao").css("aspect-ratio","16/9");
         $(".cartao-background").addClass("background-invisivel");
-        $(".lightning .cartao-grande-fixed").addClass("cartao-grande-fora");
-        $(".lightning .cartao-grande-fixed").css("transition-delay","0s");
-        $(".lightning .cartao-grande-a-sair").css("transition-delay","1s");
+        $(".laurel_1 .cartao-grande-fixed").addClass("cartao-grande-fora");
+        $(".laurel_1 .cartao-grande-fixed").css("transition-delay","0s");
+        $(".laurel_1 .cartao-grande-a-sair").css("transition-delay","1s");
     })
 })
 
