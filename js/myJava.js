@@ -81,6 +81,32 @@ $(document).ready(function () {
     })
 })
 
+// cartao q_lazzarus
+
+$(document).ready(function () { 
+    $(".q_lazzarus .btn_style").click(function () { 
+        // alert("GfG is clicked using click() method");
+        $(".q_lazzarus .cartao").addClass("cartao-grande-a-sair");
+        $(".q_lazzarus .cartao").removeClass("atraso-cartao");
+        $(".q_lazzarus .img-cartao").css("aspect-ratio","2/1");
+        $(".cartao-background").removeClass("background-invisivel");
+        $(".q_lazzarus .cartao-grande-fora").removeClass("cartao-grande-fora");
+        $(".q_lazzarus .cartao-grande-fixed").css("transition-delay","1s");
+    }); 
+}); 
+
+$(document).ready(function () {
+    $(".q_lazzarus .cartao-grande-fixed .sair").click(function () {
+        $(".q_lazzarus .cartao").removeClass("cartao-grande-a-sair");
+        $(".q_lazzarus .cartao").addClass("atraso-cartao");
+        $(".q_lazzarus .cartao .img-cartao").css("aspect-ratio","16/9");
+        $(".cartao-background").addClass("background-invisivel");
+        $(".q_lazzarus .cartao-grande-fixed").addClass("cartao-grande-fora");
+        $(".q_lazzarus .cartao-grande-fixed").css("transition-delay","0s");
+        $(".q_lazzarus .cartao-grande-a-sair").css("transition-delay","1s");
+    })
+})
+
 // cartao laurel_1
 
 $(document).ready(function () { 
