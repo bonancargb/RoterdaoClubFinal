@@ -253,6 +253,14 @@ p + p {
   opacity: 0;
 }
 
+.max-w {
+  max-width: 210px !important;
+}
+
+.btn-w {
+  width: 210px !important;
+}
+
 .pad-box {
   padding: 0.1em 0.4em ;
   transition: all 0.2s;
