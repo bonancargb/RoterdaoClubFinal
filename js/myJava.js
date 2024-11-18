@@ -81,6 +81,32 @@ $(document).ready(function () {
     })
 })
 
+// cartao kasabian_1
+
+$(document).ready(function () { 
+    $(".kasabian_1 .btn_style").click(function () { 
+        // alert("GfG is clicked using click() method");
+        $(".kasabian_1 .cartao").addClass("cartao-grande-a-sair");
+        $(".kasabian_1 .cartao").removeClass("atraso-cartao");
+        $(".kasabian_1 .img-cartao").css("aspect-ratio","2/1");
+        $(".cartao-background").removeClass("background-invisivel");
+        $(".kasabian_1 .cartao-grande-fora").removeClass("cartao-grande-fora");
+        $(".kasabian_1 .cartao-grande-fixed").css("transition-delay","1s");
+    }); 
+}); 
+
+$(document).ready(function () {
+    $(".kasabian_1 .cartao-grande-fixed .sair").click(function () {
+        $(".kasabian_1 .cartao").removeClass("cartao-grande-a-sair");
+        $(".kasabian_1 .cartao").addClass("atraso-cartao");
+        $(".kasabian_1 .cartao .img-cartao").css("aspect-ratio","16/9");
+        $(".cartao-background").addClass("background-invisivel");
+        $(".kasabian_1 .cartao-grande-fixed").addClass("cartao-grande-fora");
+        $(".kasabian_1 .cartao-grande-fixed").css("transition-delay","0s");
+        $(".kasabian_1 .cartao-grande-a-sair").css("transition-delay","1s");
+    })
+})
+
 // cartao q_lazzarus
 
 $(document).ready(function () { 
