@@ -81,6 +81,32 @@ $(document).ready(function () {
     })
 })
 
+// MACKINTOSH BRAUN
+
+$(document).ready(function () { 
+    $(".mackintosh_braun .btn_style").click(function () { 
+        // alert("GfG is clicked using click() method");
+        $(".mackintosh_braun .cartao").addClass("cartao-grande-a-sair");
+        $(".mackintosh_braun .cartao").removeClass("atraso-cartao");
+        $(".mackintosh_braun .img-cartao").css("aspect-ratio","2/1");
+        $(".cartao-background").removeClass("background-invisivel");
+        $(".mackintosh_braun .cartao-grande-fora").removeClass("cartao-grande-fora");
+        $(".mackintosh_braun .cartao-grande-fixed").css("transition-delay","1s");
+    }); 
+}); 
+
+$(document).ready(function () {
+    $(".mackintosh_braun .cartao-grande-fixed .sair").click(function () {
+        $(".mackintosh_braun .cartao").removeClass("cartao-grande-a-sair");
+        $(".mackintosh_braun .cartao").addClass("atraso-cartao");
+        $(".mackintosh_braun .cartao .img-cartao").css("aspect-ratio","16/9");
+        $(".cartao-background").addClass("background-invisivel");
+        $(".mackintosh_braun .cartao-grande-fixed").addClass("cartao-grande-fora");
+        $(".mackintosh_braun .cartao-grande-fixed").css("transition-delay","0s");
+        $(".mackintosh_braun .cartao-grande-a-sair").css("transition-delay","1s");
+    })
+})
+
 // cartao kasabian_1
 
 $(document).ready(function () { 
