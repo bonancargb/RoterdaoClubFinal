@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 467 120">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: url(#New_Gradient_Swatch_4-6);
+      }
+
+      .cls-3 {
+        fill: url(#New_Gradient_Swatch_4-9);
+      }
+
+      .cls-4 {
+        fill: url(#New_Gradient_Swatch_4-8);
+      }
+
+      .cls-5 {
+        fill: url(#New_Gradient_Swatch_4-7);
+      }
+
+      .cls-6 {
+        fill: url(#New_Gradient_Swatch_4-5);
+      }
+
+      .cls-7 {
+        fill: url(#New_Gradient_Swatch_4-3);
+      }
+
+      .cls-8 {
+        fill: url(#New_Gradient_Swatch_4-4);
+      }
+
+      .cls-9 {
+        fill: url(#New_Gradient_Swatch_4-2);
+      }
+
+      .cls-10 {
+        fill: url(#New_Gradient_Swatch_4);
+      }
+
+      .cls-11 {
+        fill: url(#New_Gradient_Swatch_4-10);
+      }
+    </style>
+    <linearGradient id="New_Gradient_Swatch_4" data-name="New Gradient Swatch 4" x1="307.5" y1="60" x2="323.5" y2="60" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ff8933"/>
+      <stop offset="1" stop-color="#ff312d"/>
+    </linearGradient>
+    <linearGradient id="New_Gradient_Swatch_4-2" data-name="New Gradient Swatch 4" x1="59.5" x2="91.5" xlink:href="#New_Gradient_Swatch_4"/>
+    <linearGradient id="New_Gradient_Swatch_4-3" data-name="New Gradient Swatch 4" x1="151.5" y1="42" x2="155.5" y2="42" xlink:href="#New_Gradient_Swatch_4"/>
+    <linearGradient id="New_Gradient_Swatch_4-4" data-name="New Gradient Swatch 4" x1="139.5" x2="175.5" xlink:href="#New_Gradient_Swatch_4"/>
+    <linearGradient id="New_Gradient_Swatch_4-5" data-name="New Gradient Swatch 4" x1="375.5" x2="407.5" xlink:href="#New_Gradient_Swatch_4"/>
+    <linearGradient id="New_Gradient_Swatch_4-6" data-name="New Gradient Swatch 4" x1="267.5" x2="299.5" xlink:href="#New_Gradient_Swatch_4"/>
+    <linearGradient id="New_Gradient_Swatch_4-7" data-name="New Gradient Swatch 4" x1="183.5" x2="215.5" xlink:href="#New_Gradient_Swatch_4"/>
+    <linearGradient id="New_Gradient_Swatch_4-8" data-name="New Gradient Swatch 4" x1="99.5" x2="131.5" xlink:href="#New_Gradient_Swatch_4"/>
+    <linearGradient id="New_Gradient_Swatch_4-9" data-name="New Gradient Swatch 4" x1="331.5" x2="367.5" xlink:href="#New_Gradient_Swatch_4"/>
+    <linearGradient id="New_Gradient_Swatch_4-10" data-name="New Gradient Swatch 4" x1="223.5" x2="259.5" xlink:href="#New_Gradient_Swatch_4"/>
+  </defs>
+  <rect class="cls-1" width="467" height="120"/>
+  <g>
+    <polygon class="cls-10" points="319.5 44 323.5 40 323.5 28 307.5 28 307.5 40 311.5 44 311.5 56 315.5 60 311.5 64 311.5 76 307.5 80 307.5 92 323.5 92 323.5 80 319.5 76 319.5 64 315.5 60 319.5 56 319.5 44"/>
+    <polygon class="cls-9" points="87.5 48 83.5 44 71.5 44 71.5 56 75.5 56 79.5 52 83.5 52 83.5 56 83.5 60 83.5 64 83.5 68 79.5 68 75.5 64 71.5 64 71.5 76 75.5 80 75.5 92 59.5 92 59.5 80 63.5 76 63.5 64 67.5 60 63.5 56 63.5 44 59.5 40 59.5 28 91.5 28 91.5 48 87.5 48"/>
+    <g>
+      <line class="cls-7" x1="155.5" y1="40" x2="151.5" y2="44"/>
+      <polyline class="cls-8" points="151.5 44 155.5 40 155.5 40 155.5 40 155.5 40 155.5 28 139.5 28 139.5 40 143.5 44 145.74 56 149.74 59.99 147 62.74 150.55 81.64 151.92 88.9 152.5 92 162.5 92 167.6 64.85 167.99 62.74 165.22 60 169.23 56 171.5 44 175.5 40 175.5 28 159.5 28 159.5 40 163.5 44 159.5 76 155.5 76 155.5 75.97 151.5 44"/>
+    </g>
+    <path class="cls-6" d="M407.5,56v-24l-4-4h-24l-4,4v24l4,3.99-4,4.01v24l4,4h24s4-4,4-4v-24l-4-4.01,4-3.99ZM399.5,76h-16v-32s16,0,16,0v32Z"/>
+    <polygon class="cls-2" points="295.5 48 291.5 44 279.5 44 279.5 56 283.5 56 287.5 52 291.5 52 291.5 56 291.5 60 291.5 64 291.5 68 287.5 68 283.5 64 279.5 64 279.5 76 291.5 76 295.5 72 299.5 72 299.5 92 267.5 92 267.5 80 271.5 76 271.5 64 275.5 60 271.5 56 271.5 44 267.5 40 267.5 28 299.5 28 299.5 48 295.5 48"/>
+    <polygon class="cls-5" points="211.5 48 207.5 44 195.5 44 195.5 56 199.5 56 203.5 52 207.5 52 207.5 56 207.5 60 207.5 64 207.5 68 203.5 68 199.5 64 195.5 64 195.5 76 207.5 76 211.5 72 215.5 72 215.5 92 183.5 92 183.5 80 187.5 76 187.5 64 191.5 60 187.5 56 187.5 44 183.51 40 183.51 28 215.5 28 215.5 48 211.5 48"/>
+    <polygon class="cls-4" points="127.5 48 123.5 44 111.5 44 111.5 56 115.5 56 119.5 52 123.5 52 123.5 56 123.5 60 123.5 64 123.5 68 119.5 68 115.5 64 111.5 64 111.5 76 123.5 76 127.5 72 131.5 72 131.5 92 99.5 92 99.5 80 103.5 76 103.5 64 107.5 60 103.5 56 103.5 44 99.5 40 99.5 28 131.5 28 131.5 48 127.5 48"/>
+    <path class="cls-3" d="M351.5,64l4,4v23.99h12s0-11.99,0-11.99l-4-4v-12l-4-4,4-4v-24l-4-4h-28s0,12,0,12l4,4v12l4,4-4,4v12l-4,4v12h16v-12l-4-4v-12M355.5,52l-4,4.01h-8v-12s12,0,12,0v4s0,3.99,0,3.99Z"/>
+    <path class="cls-11" d="M243.5,64l4,4v23.99h12s0-11.99,0-11.99l-4-4v-12l-4-4,4-4v-24l-4-4h-28s0,12,0,12l4,4v12l4,4-4,4v12l-4,4v12h16v-12l-4-4v-12M247.5,52l-4,4.01h-8v-12s12,0,12,0v4s0,3.99,0,3.99Z"/>
+  </g>
+</svg>
